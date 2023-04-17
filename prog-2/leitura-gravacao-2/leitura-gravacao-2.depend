@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1680117570 source:c:\users\futila\documents\ufsc - engenharia da computa«√o\fase-2\ufsc\prog-2\leitura-gravacao\main.cpp
+	<iostream>
+	<fstream>
+
+1680122249 source:c:\users\futila\documents\ufsc - engenharia da computa«√o\fase-2\ufsc\prog-2\leitura-gravacao-2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

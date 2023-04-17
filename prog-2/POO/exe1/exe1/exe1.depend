@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1681703984 source:c:\users\futila\documents\ufsc - engenharia da computa플o\fase-2\ufsc\prog-2\poo\exe1\exe1\square.cpp
+	"square.hpp"
+
+1681703862 c:\users\futila\documents\ufsc - engenharia da computa플o\fase-2\ufsc\prog-2\poo\exe1\exe1\square.hpp
+	<iostream>
+
+1681705004 source:c:\users\futila\documents\ufsc - engenharia da computa플o\fase-2\ufsc\prog-2\poo\exe1\exe1\main.cpp
+	"square.hpp"
+	"triangle.hpp"
+
+1681705080 c:\users\futila\documents\ufsc - engenharia da computa플o\fase-2\ufsc\prog-2\poo\exe1\exe1\triangle.hpp
+	<iostream>
+	<math.h>
+
+1681705095 source:c:\users\futila\documents\ufsc - engenharia da computa플o\fase-2\ufsc\prog-2\poo\exe1\exe1\triangle.cpp
+	"triangle.hpp"
+
+1681705402 source:c:\users\futila\documents\ufsc - engenharia da computa플o\fase-2\ufsc\prog-2\poo\exe1\exe1\circle.cpp
+	"circle.hpp"
+
+1681705295 c:\users\futila\documents\ufsc - engenharia da computa플o\fase-2\ufsc\prog-2\poo\exe1\exe1\circle.hpp
+	<iostream>
+
